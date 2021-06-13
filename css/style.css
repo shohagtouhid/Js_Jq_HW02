@@ -1,0 +1,30 @@
+/*fonts*/
+@font-face{
+	src:url(../fonts/);
+	font-family: ;
+}
+@font-face{
+	src:url(../fonts/);
+	font-family: ;
+}
+/*common*/
+body{
+	
+}
+
+.th3{
+	font-size: 30px;
+	font-weight: 700;
+	background-color: red;
+	padding: 15px;
+	color: green;
+	cursor: pointer;
+	display: inline-block;
+
+}
+.thp{
+	background-color: blue;
+	padding: 40px;
+	text-align: center;
+	display: none;
+}
